@@ -4,6 +4,7 @@
 * Linux and Android user since 2011. 
 * NDT operator employed in the engineering sector.
 * I am interested in hardware/software development.
+* I love, use and strongly recommend FOSS software.
 * I have just started learning Rust.
 
 
